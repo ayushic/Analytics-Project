@@ -1,5 +1,5 @@
 #set working directory
-setwd("/Users/ayushi/Desktop/Data Analytics/A6")
+setwd(" ")
 
 # Download the dataset
 data <- read.csv("credit.csv",stringsAsFactors = FALSE,header = TRUE)
